@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="label_text">Message to be sent</string>
+</resources>
